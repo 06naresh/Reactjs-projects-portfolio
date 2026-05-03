@@ -15,4 +15,4 @@ It serves as part of my portfolio for recruiters and collaborators.
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/reactjs-projects-portfolio.git
+   git clone https://github.com/06naresh/Reactjs-projects-portfolio.git
