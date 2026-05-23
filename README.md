@@ -6,7 +6,7 @@ It begins with a **Sales Report application** and will expand to include more ut
 ## 📂 Current Project
 - **Sales Report (React.js)**  
   A React-based application to display and manage sales data.  
-  Demonstrates component-based design, state management, and dynamic rendering.
+  Demonstrates component-based design, state management, and dynamic rendering
 
 ## 🎯 Purpose
 The goal of this repository is to showcase my ability to build practical, hands-on React.js projects.  
